@@ -8943,7 +8943,8 @@ textarea:focus {
 }
 
 .product-wrap .product-img::after {
-  border: 8px solid #fff;
+  border: 2px solid #000;
+  margin: 0px;
   bottom: 10px;
   content: "";
   left: 10px;
@@ -8959,7 +8960,7 @@ textarea:focus {
 }
 
 .product-wrap .product-img.pro-theme-color-border::after {
-  border: 8px solid #2B2F32;
+  border: 2px solid #2B2F32;
 }
 
 .product-wrap .product-img.pro-border-none::after {
